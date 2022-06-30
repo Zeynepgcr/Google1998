@@ -1,0 +1,122 @@
+.google
+    {
+   background-color: white;
+   text-align:center
+   /******** Google logo******/
+
+
+    }
+    .box
+    {
+    background-color: #e9e0e0;;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+     float:left;
+     margin-block-end: 3px;
+      /********Arama butonu *******/
+    
+  }
+
+        .p1
+        {
+        height: 20px;
+        width: 300px;
+        margin-bottom: 0px;
+        padding-left: 600px;
+        padding-right: 600px ;
+        }
+
+
+        .p2
+        {
+        border-style:solid;
+        border-color:gray;
+        text-align: center;
+        margin-top: 1px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+        width:120px;
+        margin-bottom:0px;
+        margin-right: 5px;
+       float:left;
+       margin-left:610px;
+    } 
+        /********Google Search *******/
+
+      .p3
+      {
+        border-style:solid;
+        border-color:gray;
+       text-align: center;
+        margin-top: 1px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 30px;
+        width:200px;
+        margin-left:0px;
+        float:left;
+            /********Lucky *******/
+}
+
+.Başlık3
+{
+    text-align: center;
+    border-color:black;
+    border-style:solid;
+    height: 25px;
+    width:500px;
+    margin:0 500px;
+    background-color: white;
+    }
+        /********Arama yapacağımız yer *******/
+
+    .special
+    {
+ background-color: rgb(21, 229, 229);
+height:100px;
+width: 500px;
+text-align:center;
+padding: 20px;
+float:left;
+margin-right:2px;
+}
+ /********box-2-3 *******/
+
+.box2
+{
+    height: 140px;
+    width: 300px;
+    background-color:#21c6c6 ;
+   float:left;
+   text-align:center;
+   margin-right: 2px;
+}
+
+
+.box3
+{
+    height: 140px;
+    width: 661px;
+    background-color:rgb(3, 137, 137) ;
+    float:left;
+    text-align:center;
+    }
+     /********box-2-3 *******/
+
+    .end
+    {
+    clear: both
+    text-align:center;
+    padding-top:280px;
+    padding- left: 650px;
+}
+
+   
+
+
+
+    
